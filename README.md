@@ -20,7 +20,8 @@ This project focuses on predicting house prices using the Ames Housing Dataset, 
 - Used Seaborn and Matplotlib to create histograms, boxplots, scatter plots, and correlation heatmaps.
 
 **3. Machine Learning Models for Regression**
-  ** 1. Linear Regression with Mini-Batch Gradient Descent**
+  
+   **1. Linear Regression with Mini-Batch Gradient Descent**
    Implemented Mini-Batch Gradient Descent to optimize weight updates iteratively.
       Key Functions Used:
       - Prediction function: predict()
@@ -32,7 +33,7 @@ This project focuses on predicting house prices using the Ames Housing Dataset, 
     Used Scikit-learn’s LinearRegression() to fit the dataset.
    Compared performance with Mini-Batch Gradient Descent.
 
-   ** 3. K-Nearest Neighbors (KNN) Regression**
+   **3. K-Nearest Neighbors (KNN) Regression**
       - Determined optimal K (number of neighbors) using cross-validation (cv=5).
       - Trained KNeighborsRegressor(n_neighbors=optimal_k).
       - Plotted MSE vs. K to visualize how the number of neighbors impacts accuracy.
@@ -48,7 +49,7 @@ This project focuses on predicting house prices using the Ames Housing Dataset, 
    **MSE Comparison Across Models:**
    - Plotted bar charts for Train MSE vs. Test MSE to compare models.
    
-  ** MSE vs. Iterations for Gradient Descent:**
+  **MSE vs. Iterations for Gradient Descent:**
    - Visualized MSE reduction across 2000 iterations.
    
    **Feature Importance Analysis:**
