@@ -20,7 +20,6 @@ This project focuses on predicting house prices using the Ames Housing Dataset, 
 - Used Seaborn and Matplotlib to create histograms, boxplots, scatter plots, and correlation heatmaps.
 
 **3. Machine Learning Models for Regression**
-  
    **1. Linear Regression with Mini-Batch Gradient Descent**
    Implemented Mini-Batch Gradient Descent to optimize weight updates iteratively.
       Key Functions Used:
